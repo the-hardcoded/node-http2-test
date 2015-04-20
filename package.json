@@ -1,0 +1,28 @@
+{
+  "name": "node-http2-test",
+  "version": "1.0.0",
+  "description": "\"http/2 test project with client and the server\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:the-hardcoded/node-http2-test.git"
+  },
+  "keywords": [
+    "http2",
+    "node",
+    "server",
+    "client"
+  ],
+  "author": "Pyry Kovanen / The Hardcoded (hardcoded.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-hardcoded/node-http2-test/issues"
+  },
+  "homepage": "https://github.com/the-hardcoded/node-http2-test",
+  "dependencies": {
+    "http2": "^3.2.0"
+  }
+}
